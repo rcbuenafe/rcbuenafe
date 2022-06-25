@@ -4,13 +4,13 @@
       </svg></a>Hello, Virtual World! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> I'm R.C.</h3>
 
 
-  <p dir="auto">I'm a graduate of Computer Engineering yet I was lost on the industry which I became an Autocad Draftsman for almost 7 years. Now I'm getting back to coding for this is how I really want to end up things for myself. Proud to be a career shifter</p>
+  <p>I'm a graduate of Computer Engineering yet I was lost trying to figure things out in the corporate world. I became an Autocad Draftsman for almost 7 years in the Civil Industry. Now I'm getting back on my feet to coding for this is how I really want to end things up for myself. Proud to be a career shifter.</p>
   <ul dir="auto">
     <li>
-      <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently studying to become a Full-Stack Developer
+      <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently studying to become a Full-Stack Developer.
     </li>
     <li>
-      <g-emoji class="g-emoji" alias="mag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png">🔍</g-emoji> I’m looking to participate in a hackathon and contribute to open source projects
+      <g-emoji class="g-emoji" alias="mag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png">🔍</g-emoji> I’m looking to participate in bootcamps and contribute to open-source projects.
     </li>
     <li>
       <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun facts: I love biking, coding, learning new stuff, playing and watching!

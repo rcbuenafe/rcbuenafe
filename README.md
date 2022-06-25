@@ -10,7 +10,7 @@
       <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently studying to become a Full-Stack Developer.
     </li>
     <li>
-      <g-emoji class="g-emoji" alias="mag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png">🔍</g-emoji> I’m looking to participate in bootcamps and contribute to open-source projects.
+      <g-emoji class="g-emoji" alias="mag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png">🔍</g-emoji> I’m now participating in bootcamps and making my own portfolio (open-source) projects.
     </li>
     <li>
       <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun facts: I love biking, coding, learning new stuff, playing and watching!

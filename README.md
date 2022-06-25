@@ -4,7 +4,7 @@
       </svg></a>Hello, Virtual World! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> I'm R.C.</h3>
 
 
-  <p>I'm a graduate of Computer Engineering yet I was lost trying to figure things out in the corporate world. I became an Autocad Draftsman for almost 7 years in the Civil Industry. Now I'm getting back on my feet to coding for this is how I really want to end things up for myself. Proud to be a career shifter.</p>
+  <p>I'm a graduate of Computer Engineering yet I was lost trying to figure things out in the corporate world. I became an Autocad Draftsman for almost 7 years in the Civil Industry. Now I'm getting back to coding and my goal will be a Full-Stack Developer. Proud to be a career shifter.</p>
   <ul dir="auto">
     <li>
       <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently studying to become a Full-Stack Developer.
